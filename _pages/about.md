@@ -34,19 +34,33 @@ I’m a post-graduate student at Automation School, [Beijing Institute of Techno
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2022</div><img src='images/fig.002.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Hwamei: A Learning-based Synchronization Scheme for Hierarchical Federated Learning(Under Reviewed)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+43rd IEEE International Conference on Distributed Computing Systems
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Tianyu Qi**, Yufeng Zhan, Song Guo, Yuanqing Xia
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CCC</div><img src='images/fig.001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[The Research on Approximating the Real Network Degree Distribution Level Based on DCSBM](https://ieeexplore.ieee.org/abstract/document/9902866)**
+
+2022 41st Chinese Control Conference (CCC)
+
+**Tianyu Qi**, Hongwei Zhang, Yufeng Zhan, Yuanqing Xia
+
+<!-- [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](https://onedrive.live.com/?authkey=%21AA%5FQuw1ktJKpcqk&cid=515680AEEA3FF1B0&id=515680AEEA3FF1B0%214617&parId=515680AEEA3FF1B0%214424&o=OneUp) -->
+
+</div>
+</div>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
