@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianyu Qi|齐天宇"
+title                    : "Tianyu Qi | 齐天宇"
 description              : "An Automation Postgraduate Student. & Open Source enthusiast. & Focusing on Federated Learning and Cloud Computing "
 repository               : "QiTianyu-0403/QiTianyu-0403.github.io"
 google_scholar_stats_use_cdn : false
