@@ -27,6 +27,18 @@ I’m a post-graduate student at Automation School, [Beijing Institute of Techno
 
 ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!***
 
+# News
+- *2021.12 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training.**
+
+  *Project supported by the Young Scientists Fund of the National Natural Science Foundation of China.*
+
+  *Responsible for the optimization research of federated learning algorithm based on reinforcement learning.*
+- *2021.09 - 2021.12*, **Data-driven cloud data center intelligent management technology and platform.**
+
+  *Supported by the National Key Research and Development Program of China.*
+
+  *Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm.*
+
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -72,18 +84,6 @@ Hwamei: A Learning-based Synchronization Scheme for Hierarchical Federated Learn
 # 📖 Educations
 - *2021.06 - 2024.04 (now)*, Master of Automation major, Post-graduate, Beijing Institute of Technology. **(Grade: 89.71/100)**
 - *2017.09 - 2021.06*, Bachelor of Automation major, Undergraduate, China University of Geosciences, Wuhan. **(GPA: 3.97/5)** 
-
-# News
-- *2021.12 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training.**
-
-  *Project supported by the Young Scientists Fund of the National Natural Science Foundation of China.*
-
-  *Responsible for the optimization research of federated learning algorithm based on reinforcement learning.*
-- *2021.09 - 2021.12*, **Data-driven cloud data center intelligent management technology and platform.**
-
-  *Supported by the National Key Research and Development Program of China.*
-
-  *Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm.*
 
 # 📚 Skills
 - **Software:** Matlab & Simulink, C & C++, Python, Pytorch, Bash, Linux, Docker, Latex, MS Office
