@@ -73,7 +73,7 @@ Hwamei: A Learning-based Synchronization Scheme for Hierarchical Federated Learn
 - *2021.06 - 2024.04 (now)*, Master of Automation major, Post-graduate, Beijing Institute of Technology. **(Grade: 89.71/100)**
 - *2017.09 - 2021.06*, Bachelor of Automation major, Undergraduate, China University of Geosciences, Wuhan. **(GPA: 3.97/5)** 
 
-# Experiences
+# News
 - *2021.12 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training.**
 
   *Project supported by the Young Scientists Fund of the National Natural Science Foundation of China.*
