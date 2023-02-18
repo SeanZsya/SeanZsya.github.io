@@ -33,7 +33,6 @@ I’m a post-graduate student at Automation School, [Beijing Institute of Techno
 - *2021.03 - 2022.03*, **Cloud-side collaborative software design. (Participate)** Supported by the [China Unicom](http://www.chinaunicom.com.cn/index.html). Responsible for researching on task scheduling algorithm in Cloud-Edge collaborative environment.
 - *2018.05 - 2021.12*, **Data-driven cloud data center intelligent management technology and platform. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm.
 
-
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -84,5 +83,4 @@ Hwamei: A Learning-based Synchronization Scheme for Hierarchical Federated Learn
 - **Language:** English (CET-6), Chinese (Native)
 
 # 💻 Internships
-- *2021.06 - 2021.08*, [Taiji Computer Corporation Limited](https://www.taiji.com.cn/), IoT technology Interns.
-  *Responsible for the deployment of the back-end environment of the IoT platform and some product prototype design*
+- *2021.06 - 2021.08*, [Taiji Computer Corporation Limited](https://www.taiji.com.cn/), IoT technology Interns. *Responsible for the deployment of the back-end environment of the IoT platform and some product prototype design*
