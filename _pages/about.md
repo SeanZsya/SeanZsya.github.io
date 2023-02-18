@@ -25,15 +25,13 @@ I’m a post-graduate student at Automation School, [Beijing Institute of Techno
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-***I love to make friends. so if you want to say hi, I'll be happy to meet you more!***
+***I love to make friends. So if you want to say hi, I'll be happy to meet you more!***
 
-# 🌝 News
-- *2021.12 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training.**
-  *Project supported by the Young Scientists Fund of the National Natural Science Foundation of China.*
-  *Responsible for the optimization research of federated learning algorithm based on reinforcement learning.*
-- *2021.09 - 2021.12*, **Data-driven cloud data center intelligent management technology and platform.**
-  *Supported by the National Key Research and Development Program of China.*
-  *Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm.*
+# 🏷 Projests
+- *2022.01 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training. (Participate)** Supported by the [Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/). Responsible for the optimization research of federated learning algorithm based on reinforcement learning.
+- *2022.09 - 2022.12*, **Comprehensive Study of Reinforcement Learning Applications in Aviation.** Supported by the [China's aviation system engineering research institute](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E6%89%80/9865501). Responsible for researching on UAV path planning based on reinforcement learning.
+- *2021.03 - 2022.03*, **Cloud-side collaborative software design. (Participate)** Supported by the [China Unicom](http://www.chinaunicom.com.cn/index.html). Responsible for researching on task scheduling algorithm in Cloud-Edge collaborative environment.
+- *2018.05 - 2021.12*, **Data-driven cloud data center intelligent management technology and platform. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm.
 
 
 <!-- # 🔥 News
