@@ -34,7 +34,7 @@ I’m a post-graduate student at Automation School, [Beijing Institute of Techno
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2022</div><img src='images/fig.002.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2023</div><img src='images/fig.002.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Hwamei: A Learning-based Synchronization Scheme for Hierarchical Federated Learning(Under Reviewed)
@@ -63,16 +63,25 @@ Hwamei: A Learning-based Synchronization Scheme for Hierarchical Federated Learn
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.10* Excellent student of Beijing Institute of Technology.
+- *2022.10* First prize of China Computer Game Competition. (Top 1%)
+- *2022.09* The special scholarship of Beijing Institute of Technology. 
+- *2021.06* Outstanding graduates of China University of Geosciences, Wuhan. (Top 1%)
+- *2020.10* Principle's scholarship of China University of Geosciences, Wuhan. (Top 3%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06 - 2024.04 (now)*, Master of Automation major, Post-graduate, Beijing Institute of Technology. **(Grade: 89.71/100)**
+- *2017.09 - 2021.06*, Bachelor of Automation major, Undergraduate, China University of Geosciences, Wuhan. **(GPA: 3.97/5)** 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Experiences
+- *2021.12 - 2024.12*, Research on key methods of incentive mechanism for federated learning sustainable training.
+*Project supported by the Young Scientists Fund of the National Natural Science Foundation of China.*
+*Responsible for the optimization research of federated learning algorithm based on reinforcement learning*
+- *2021.09 - 2021.12*, Data-driven cloud data center intelligent management technology and platform.
+*Supported by the National Key Research and Development Program of China.*
+*Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm*
+
+# 📚 Skills
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, Taiji Computer Corporation Limited
