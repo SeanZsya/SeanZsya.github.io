@@ -82,6 +82,7 @@ Hwamei: A Learning-based Synchronization Scheme for Hierarchical Federated Learn
 *Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm*
 
 # 📚 Skills
+hhhhhhhh
 
 # 💻 Internships
 - *2019.05 - 2020.02*, Taiji Computer Corporation Limited
