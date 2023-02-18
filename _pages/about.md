@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- # 🧑‍🎓 About Me  -->
+# 🧑‍🎓 About Me 
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
@@ -27,16 +27,12 @@ I’m a post-graduate student at Automation School, [Beijing Institute of Techno
 
 ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!***
 
-# News
+# 🌝 News
 - *2021.12 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training.**
-
   *Project supported by the Young Scientists Fund of the National Natural Science Foundation of China.*
-
   *Responsible for the optimization research of federated learning algorithm based on reinforcement learning.*
 - *2021.09 - 2021.12*, **Data-driven cloud data center intelligent management technology and platform.**
-
   *Supported by the National Key Research and Development Program of China.*
-
   *Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm.*
 
 
@@ -91,3 +87,4 @@ Hwamei: A Learning-based Synchronization Scheme for Hierarchical Federated Learn
 
 # 💻 Internships
 - *2021.06 - 2021.08*, [Taiji Computer Corporation Limited](https://www.taiji.com.cn/), IoT technology Interns.
+  *Responsible for the deployment of the back-end environment of the IoT platform and some product prototype design*
