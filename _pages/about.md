@@ -25,7 +25,7 @@ I’m a post-graduate student at Automation School, [Beijing Institute of Techno
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-***I love to make friends. So if you want to say hi, I'll be happy to meet you more!***
+I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&logo=Zhihu&logoColor=FFFFFF&color=0084FF)](https://www.zhihu.com/people/xin-sen-miao-yan-yao-49-60) to update my code.***I love to make friends. So if you want to say hi, I'll be happy to meet you more!***
 
 # 🏷 Projects
 - *2022.01 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training. (Participate)** Supported by the [Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/). Responsible for the optimization research of federated learning algorithm based on reinforcement learning.
