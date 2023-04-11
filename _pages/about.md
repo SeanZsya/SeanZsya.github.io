@@ -42,16 +42,16 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2023</div><img src='images/fig.002.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hwamei: A Learning-based Synchronization Scheme for Hierarchical Federated Learning(Under Reviewed)
+Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning
 
-43rd IEEE International Conference on Distributed Computing Systems
+2023 43rd IEEE International Conference on Distributed Computing Systems
 
-**Tianyu Qi**, Yufeng Zhan, Song Guo, Yuanqing Xia
+**Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CCC</div><img src='images/fig.001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CCC 2022</div><img src='images/fig.001.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[The Research on Approximating the Real Network Degree Distribution Level Based on DCSBM](https://ieeexplore.ieee.org/abstract/document/9902866)**
@@ -75,7 +75,7 @@ Hwamei: A Learning-based Synchronization Scheme for Hierarchical Federated Learn
 - *2020.10* Principle's scholarship of China University of Geosciences, Wuhan. (Top 3%)
 
 # 📖 Educations
-- *2021.06 - 2024.04 (now)*, Master of Automation major, Post-graduate, Beijing Institute of Technology. **(Grade: 89.71/100)**
+- *2021.09 - 2024.06 (now)*, Master of Automation major, Post-graduate, Beijing Institute of Technology. **(Grade: 89.71/100)**
 - *2017.09 - 2021.06*, Bachelor of Automation major, Undergraduate, China University of Geosciences, Wuhan. **(GPA: 3.97/5)** 
 
 # 📚 Skills
