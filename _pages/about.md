@@ -48,6 +48,8 @@ Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learni
 
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
 
+- We propose an intelligent HFL synchronization scheme, that decides the aggregation frequencies of cloud and edge based on DRL.
+
 </div>
 </div>
 
