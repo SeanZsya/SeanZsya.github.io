@@ -67,7 +67,7 @@ Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learni
 </div>
 
 - <span style="color:#00329D">[Patent CN]</span> [An edge intelligent optimization method and device](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(issued), Yufeng Zhan, Jiasheng Wang, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia, 2023.01.24, CN115357402B
-- `CVPR 2022` A cloud-edge-device collaborative federated learning intelligent optimization method and device(filed), Yufeng Zhan, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia
+- [`CVPR 2022`] A cloud-edge-device collaborative federated learning intelligent optimization method and device(filed), Yufeng Zhan, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
