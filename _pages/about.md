@@ -88,4 +88,4 @@ Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learni
 - **Language:** English (CET-6), Chinese (Native)
 
 # 💻 Internships
-- *2021.06 - 2021.08*, [Taiji Computer Corporation Limited](https://www.taiji.com.cn/), IoT technology Interns. *Responsible for the deployment of the back-end environment of the IoT platform and some product prototype design*
+- *2021.06 - 2021.08*, [Taiji Computer Corporation Limited](https://www.taiji.com.cn/) <img src='./images/TAIJI.png' style='width: 6em;'> , IoT technology Interns. *Responsible for the deployment of the back-end environment of the IoT platform and some product prototype design*
