@@ -38,6 +38,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+## Articles
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2023</div><img src='images/fig.002.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,8 +67,9 @@ Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learni
 </div>
 </div>
 
-- <span style="color:#00329D">[Patent CN]</span> [An edge intelligent optimization method and device](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(issued), Yufeng Zhan, Jiasheng Wang, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia, 2023.01.24, CN115357402B
-- [`CVPR 2022`] A cloud-edge-device collaborative federated learning intelligent optimization method and device(filed), Yufeng Zhan, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia
+## Patents
+- [An edge intelligent optimization method and device](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(issued), Yufeng Zhan, Jiasheng Wang, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia, 2023.01.24, CN115357402B
+- A cloud-edge-device collaborative federated learning intelligent optimization method and device(filed), Yufeng Zhan, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
