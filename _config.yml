@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianyu Qi | 齐天宇"
-description              : "An Automation Postgraduate Student. & Focusing on Federated Learning and Cloud Computing."
-repository               : "QiTianyu-0403/QiTianyu-0403.github.io"
+title                    : "Xuyang Zhao"
+description              : "Beijing Institute of Technology"
+repository               : "SeanZsya/SeanZsya.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianyu Qi"
-  avatar           : "images/person-512x512.png"
-  bio              : "Beijing Institute of Technology"
+  name             : "Xuyang Zhao"
+  avatar           : "images/zxy_profile_small.png"
+  bio              : 
   location         : "Beijing, China"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "qitianyuqty@163.com"
+  email            : "cnzhaoxy@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : QiTianyu-0403
+  github           : SeanZsya
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-5484-985X"
+  orcid            : #"https://orcid.org/0000-0001-5484-985X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@seanzhao8719"
   wikipedia        :
 
 
