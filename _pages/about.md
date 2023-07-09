@@ -38,8 +38,8 @@ I’m a post-graduate student at Automation School, [Beijing Institute of Techno
 <div class='paper-box-text' markdown="1">
 
 **[TDLE: 2D Lidar Exploration with Hierarchical Planning Using Regional Division](https://arxiv.org/abs/2307.02852)**
-
-2023 19th IEEE International Conference on Automation Science and Engineering (CASE) 
+z
+IEEE International Conference on Automation Science and Engineering (CASE), Auckland, New Zealand, 2023 
 
 **Xuyang Zhao**, Chengpu Yu, Erpei Xu and Yixuan Liu
 
@@ -49,12 +49,18 @@ I’m a post-graduate student at Automation School, [Beijing Institute of Techno
 </div>
 
 ## Patents
-- [An edge intelligent optimization method and device](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(issued), Yufeng Zhan, Jiasheng Wang, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia, 2023.01.24, CN115357402B
-- A cloud-edge-device collaborative federated learning intelligent optimization method and device(filed), Yufeng Zhan, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- Chengpu Yu, **Xuyang Zhao**, Dajian Zhou, "Indoor mapping method and device with autonomous exploration", Chinese patent 20211114092.1, 2021. 
 
 # 🔬 Projects
 - *2022.01 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training. (Participate)** Supported by the [Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/). Responsible for the optimization research of federated learning algorithm based on reinforcement learning.
+<div class='paper-box'>
+  <div class='project-image'>
+    <a href="https://youtu.be/GT1CXNN92-o" title="Racecar">
+    <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688913924/video_to_markdown/images/youtube--GT1CXNN92-o-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Smart car race demo (simulation competition part"></a>
+    <img src="comp_scene.png" alt="competition scene">
+  </div>
+</div>
+
 
 # 🏅 Honors and Awards
 - *2022.09* The first scholarship of Beijing Institute of Technology. 
