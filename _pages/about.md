@@ -57,7 +57,7 @@ IEEE International Conference on Automation Science and Engineering (CASE), Auck
   <div class='project-image'>
     <a href="https://youtu.be/GT1CXNN92-o" title="Racecar">
     <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688913924/video_to_markdown/images/youtube--GT1CXNN92-o-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Smart car race demo (simulation competition part"></a>
-    <img src="comp_scene.png" alt="competition scene">
+    <img src="images/comp_scene.png" alt="competition scene">
   </div>
 </div>
 
