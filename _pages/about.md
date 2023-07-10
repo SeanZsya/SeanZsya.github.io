@@ -53,13 +53,12 @@ IEEE International Conference on Automation Science and Engineering (CASE), Auck
 
 # 🔬 Projects
 - *2022.01 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training. (Participate)** Supported by the [Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/). Responsible for the optimization research of federated learning algorithm based on reinforcement learning.
-<div class='paper-box'>
+
   <div class='project-image'>
     <a href="https://youtu.be/GT1CXNN92-o" title="Racecar">
     <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688913924/video_to_markdown/images/youtube--GT1CXNN92-o-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Smart car race demo (simulation competition part"></a>
     <img src="images/comp_scene.png" alt="competition scene">
   </div>
-</div>
 
 
 # 🏅 Honors and Awards

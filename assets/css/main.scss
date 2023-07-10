@@ -66,17 +66,6 @@
         max-width: 100%;
         order: 1;
     }
-
-    .project-image {
-        display: flex;
-        flex-wrap: wrap;
-      }
-      
-    .project-image img {
-    width: 100%;
-    height: auto;
-    margin: 5px;
-    }
     
     @include breakpoint($medium) {
         .paper-box-image{
@@ -92,10 +81,18 @@
             max-width: 60%;
             order: 2;
         }
-
     }
+}
 
-
+.project-image {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+.project-image img {
+width: 100%;
+height: auto;
+margin: 5px;
 }
 
 $scroll_offset : 2em;
