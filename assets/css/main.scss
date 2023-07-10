@@ -70,7 +70,7 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 400px;
+            min-width: 200px;
             max-width: 40%;
             order: 1;
         }
@@ -81,21 +81,11 @@
             max-width: 60%;
             order: 2;
         }
+
     }
+
+
 }
-
-// .image-container {
-//     display: flex;
-//     align-items: center; 
-//   }
-//   .image-container img {
-//     width: auto;
-//     max-width: 100%; 
-//     max-height: 400px;
-//     min-height: 300px;
-//     margin-right: 10px; 
-//   }
-
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
