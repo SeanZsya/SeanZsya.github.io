@@ -89,7 +89,9 @@
     align-items: center; 
   }
   .image-container img {
-    height: 500px; 
+    height: auto;
+    max-width: 100%; 
+    max-height: 400px;
     margin-right: 10px; 
   }
 
