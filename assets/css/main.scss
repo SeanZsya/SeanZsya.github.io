@@ -89,9 +89,10 @@
     align-items: center; 
   }
   .image-container img {
-    height: auto;
+    width: auto;
     max-width: 100%; 
     max-height: 400px;
+    min-height: 300px;
     margin-right: 10px; 
   }
 
