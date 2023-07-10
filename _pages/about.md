@@ -52,25 +52,28 @@ IEEE International Conference on Automation Science and Engineering (CASE), Auck
 - Chengpu Yu, **Xuyang Zhao**, Dajian Zhou, "Indoor mapping method and device with autonomous exploration", Chinese patent 20211114092.1, 2021. 
 
 # 🔬 Projects
+
+- *2021.09 - 2022.06*, **Research on key technologies of multi-UAV cooperative exploration based on solid-state lidar. (Participate)** Responsible for the research of multi-UAV cooperative exploration algorithm based on solid-state lidar.
+
+<table><tr>
+<td style="width:50%"> <a href="https://youtu.be/BFo1Ke8co4k" title="Exploration with Solid-state Lidar (3 UAVs)"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688958193/video_to_markdown/images/youtube--BFo1Ke8co4k-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Exploration(3 UAVs)"></a></td>
+<td> <a href="https://youtu.be/hQJ7u7scb8Y" title="Exploration with Solid-state Lidar (2 UAVs)"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688958424/video_to_markdown/images/youtube--hQJ7u7scb8Y-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Exploration(2 UAVs)"></a></td>
+</tr></table>
+
 - *2022.01 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training. (Participate)** Supported by the [Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/). Responsible for the optimization research of federated learning algorithm based on reinforcement learning.
 
 <table><tr>
-<td style="width:40%"> <a href="https://youtu.be/GT1CXNN92-o" title="Racecar"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688913924/video_to_markdown/images/youtube--GT1CXNN92-o-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Smart car race demo (simulation competition part"></a></td>
+<td style="width:50%"> <a href="https://youtu.be/GT1CXNN92-o" title="Racecar"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688913924/video_to_markdown/images/youtube--GT1CXNN92-o-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Smart car race demo (simulation competition part"></a></td>
 <td><img src="images/comp_scene.png" alt="competition scene"></td>
 </tr></table>
-<!-- 
-<div class="image-container">
-<a href="https://youtu.be/GT1CXNN92-o" title="Racecar"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688913924/video_to_markdown/images/youtube--GT1CXNN92-o-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Smart car race demo (simulation competition part" ></a>
-<img src="images/comp_scene.png" alt="competition scene">
-</div> -->
 
 # 🏅 Honors and Awards
 - *2022.09* The first scholarship of Beijing Institute of Technology. 
 - *2021.06* Outstanding graduates of China University of Geosciences, Wuhan. (Top 1%)
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, Master of Automation major, Post-graduate, Beijing Institute of Technology. **(Grade: 89.71/100)**
-- *2017.09 - 2021.06*, Bachelor of Automation major, Undergraduate, China University of Geosciences, Wuhan. **(GPA: 3.97/5)** 
+- *2021.09 - 2024.06 (now)*, Master of Automation major, Post-graduate, Beijing Institute of Technology. 
+- *2017.09 - 2021.06*, Bachelor of Automation major, Undergraduate, China University of Minning and Technology, Beijing.
 
 # 📚 Skills
 - **Software:** Matlab & Simulink, C & C++, Python, Pytorch, Bash, Linux, Docker, Latex, MS Office
