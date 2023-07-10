@@ -84,17 +84,6 @@
     }
 }
 
-.project-image {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
-.project-image img {
-width: 100%;
-height: auto;
-margin: 5px;
-}
-
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
