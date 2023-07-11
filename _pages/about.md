@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me 
 
-I’m a second-year master's student in Automation at *[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)*. As a member of *State Key Laboratory of Autonomous Intelligent Unmanned Systems*, I'm advised by Prof. [Chengpu Yu](https://ac.bit.edu.cn/szdw/dsmd/sssds/mssbyznxt/69e8a71ad78346fb87e6765e0f2549ab.htm). I received my B.Eng. degree in Measurement & Control Technology from *[China University of Mining and Technology, Beijing](https://english.cumtb.edu.cn/)* in 2021.
+I’m a second-year master's student in Automation at *[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)*. As a member of *State Key Laboratory of Autonomous Intelligent Unmanned Systems*, I'm advised by Prof. [Chengpu Yu](https://ac.bit.edu.cn/szdw/dsmd/sssds/mssbyznxt/69e8a71ad78346fb87e6765e0f2549ab.htm). I received my B.Eng. degree in Measurement & Control Technology from *[China University of Mining & Technology (CUMT), Beijing](https://english.cumtb.edu.cn/)* in 2021.
 
 My research interests are in the autonomy of intelligent mobile systems. More specifically, I focus on autonomous exploration systems and its supporting technologies, such as SLAM, motion planning, and multi-robot collaboration.
 
@@ -76,8 +76,8 @@ My research interests are in the autonomy of intelligent mobile systems. More sp
 </tr></table>
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, Master of Automation major, Post-graduate, Beijing Institute of Technology. 
-- *2017.09 - 2021.06*, Bachelor of Automation major, Undergraduate, China University of Mining and Technology, Beijing.
+- *Sept. 2021 - Jul. 2024 (Present)*, Master's student of Control Engineering, Beijing Institute of Technology. 
+- *Sept. 2017 - Jul. 2021*, Bachelor of Measurement & Control Technology, China University of Mining & Technology, Beijing.
 
 # 💻 Internships
 - *2023.04 - 2023.05*, [PhiGent Robotics](https://www.phigent.ai/), Autonomous Driving R&D Intern.
@@ -85,7 +85,7 @@ My research interests are in the autonomy of intelligent mobile systems. More sp
 # 🏅 Honors and Awards
 - *2022.09* First Class Scholarship of Beijing Institute of Technology. 
 - *2021.06* Outstanding Graduates of China University of Mining and Technology, Beijing. (Top 3%)
-- *2021.06* First Prize of Excellent Graduation Project of China University of Mining and Technology, Beijing. (Top 1%)
+- *2021.06* First Prize of Excellent Bachelor Thesis of China University of Mining & Technology, Beijing. (Top 1%)
 - *2020.09* National Second Prize of Collegiate Smart Car Competition.
 
 # 📚 Skills
