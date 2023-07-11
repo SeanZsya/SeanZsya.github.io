@@ -10,10 +10,10 @@ main:
     url: "/#-projects"
 
   - title: "Educations"
-  url: "/#-educations"
+    url: "/#-educations"
 
   - title: "Internships"
-  url: "/#-internships"
+    url: "/#-internships"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
