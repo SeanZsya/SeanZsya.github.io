@@ -19,9 +19,9 @@ redirect_from:
 
 # 🧑‍🎓 About Me 
 
-I’m a second-year master's student in Automation at *Beijing Institute of Technology (BIT)*, advised by Prof. [Chengpu Yu](https://ac.bit.edu.cn/szdw/dsmd/sssds/mssbyznxt/69e8a71ad78346fb87e6765e0f2549ab.htm). I received my B.Eng. degree in Measurement & Control Technology from *China University of Mining and Technology, Beijing* in 2021.
+I’m a second-year master's student in Automation at *[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)*. As a member of *State Key Laboratory of Autonomous Intelligent Unmanned Systems*, I'm advised by Prof. [Chengpu Yu](https://ac.bit.edu.cn/szdw/dsmd/sssds/mssbyznxt/69e8a71ad78346fb87e6765e0f2549ab.htm). I received my B.Eng. degree in Measurement & Control Technology from *[China University of Mining and Technology, Beijing](https://english.cumtb.edu.cn/)* in 2021.
 
-My main research interests are in the autonomy of intelligent mobile systems. More specifically, I focus on autonomous exploration systems and its supporting technologies, such as SLAM, motion planning, and multi-robot collaboration.
+My research interests are in the autonomy of intelligent mobile systems. More specifically, I focus on autonomous exploration systems and its supporting technologies, such as SLAM, motion planning, and multi-robot collaboration.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -45,13 +45,14 @@ My main research interests are in the autonomy of intelligent mobile systems. Mo
 
   **Xuyang Zhao**, Chengpu Yu, Erpei Xu and Yixuan Liu
 
-  - We proposed an exploration system that uses global dynamic regional division and localized metric evaluation to achieve efficient autonomous mapping with low computational requirements. The proposed method can run at high frequencies (>100Hz) on low-power edge platforms like Jetson Nano, while offering up to 57.57% efficiency improvement compared to former methods.
+  - Proposed an exploration system that uses global dynamic regional division and localized metric evaluation to achieve efficient autonomous mapping with low computational requirements. The proposed method can run at high frequencies (>100Hz) on low-power edge platforms like Jetson Nano, while offering up to 57.57% efficiency improvement compared to former methods.
 
   </div>
 </div>
 
 ## Patents
-- Chengpu Yu, **Xuyang Zhao**, Dajian Zhou, "Indoor mapping method and device with autonomous exploration", Chinese Patent 20211114092.1, 2021. 
+- Chengpu Yu, **Xuyang Zhao**, Dajian Zhou, "An Indoor Mapping Method And Device With Autonomous Exploration", Chinese Patent 20211114092.1, 2021. 
+- Chengpu Yu, Dajian Zhou, **Xuyang Zhao**, "An 3D Inversion Positioning Method Based on Ultra-wideband (UWB).", Chinese Patent 202110893866X, 2021.
 
 # 🔬 Projects
 
@@ -84,9 +85,11 @@ My main research interests are in the autonomy of intelligent mobile systems. Mo
 - *2021.09 - 2024.06 (now)*, Master of Automation major, Post-graduate, Beijing Institute of Technology. 
 - *2017.09 - 2021.06*, Bachelor of Automation major, Undergraduate, China University of Mining and Technology, Beijing.
 
-# 📚 Skills
-- **Software:** ROS, C++, Python, Bash, Linux, Docker, Latex
-- **Language:** English (CET-6: 551, TOEFL: 101), Chinese (Native)
-
 # 💻 Internships
 - *2023.04 - 2023.05*, [PhiGent Robotics](https://www.phigent.ai/), Autonomous Driving R&D Intern.
+
+# 📚 Skills
+- **Robotics Dev.:** ROS, PX4, Gazebo, PCL, Eigen, Ceres, etc. 
+- **Programming:** C/C++, Python, LaTeX
+- **Dev. Tools:** Git, Linux & Shell, Docker, etc.
+- **Language:** English (CET-6: 551, TOEFL: 101), Chinese (Native)
