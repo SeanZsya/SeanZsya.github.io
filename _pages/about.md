@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🧑‍🎓 About Me 
+# About Me 
 
 I’m a second-year master's student in Automation at *[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)*. As a member of *State Key Laboratory of Autonomous Intelligent Unmanned Systems*, I'm advised by Prof. [Chengpu Yu](https://ac.bit.edu.cn/szdw/dsmd/sssds/mssbyznxt/69e8a71ad78346fb87e6765e0f2549ab.htm). I received my B.Eng. degree in Measurement & Control Technology from *[China University of Mining and Technology, Beijing](https://english.cumtb.edu.cn/)* in 2021.
 
@@ -75,18 +75,18 @@ My research interests are in the autonomy of intelligent mobile systems. More sp
 <td><img src="images/comp_scene.png" alt="competition scene"></td>
 </tr></table>
 
-# 🏅 Honors and Awards
-- *2022.09* First Class Scholarship of Beijing Institute of Technology. 
-- *2021.06* Outstanding Graduates of China University of Mining and Technology, Beijing. (Top 3%)
-- *2021.06* First Prize of Excellent Graduation Project of China University of Mining and Technology, Beijing. (Top 1%)
-- *2020.09* National Second Prize of Collegiate Smart Car Competition.
-
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*, Master of Automation major, Post-graduate, Beijing Institute of Technology. 
 - *2017.09 - 2021.06*, Bachelor of Automation major, Undergraduate, China University of Mining and Technology, Beijing.
 
 # 💻 Internships
 - *2023.04 - 2023.05*, [PhiGent Robotics](https://www.phigent.ai/), Autonomous Driving R&D Intern.
+
+# 🏅 Honors and Awards
+- *2022.09* First Class Scholarship of Beijing Institute of Technology. 
+- *2021.06* Outstanding Graduates of China University of Mining and Technology, Beijing. (Top 3%)
+- *2021.06* First Prize of Excellent Graduation Project of China University of Mining and Technology, Beijing. (Top 1%)
+- *2020.09* National Second Prize of Collegiate Smart Car Competition.
 
 # 📚 Skills
 - **Robotics Dev.:** ROS, PX4, Gazebo, PCL, Eigen, Ceres, etc. 
