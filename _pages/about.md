@@ -72,7 +72,7 @@ The goal of my research is to enhance the autonomy of robots. Currently, I'm foc
 
 - *2020.05 - 2020.09*, **ROS Smart Car Racing. (Team Leader)** 
 
-  [China's 15th National Collegiate Smart Car Race] To achieve higher speed in the racing, beside device adjustment and tuning, we carried out the following tasks: (1) Distortion correction for LiDAR mapping process; (2) Introduction of strong constraints for obstacle avoidance in local planners; (3) Construction of LiDAR-IMU Odometry (LIO). These efforts led to a successful advancement in the simulation race of the North China division and then a national second prize in the final competition.
+  [China's 15th National Collegiate Smart Car Race] To achieve higher speed in the racing, besides device adjustment and tuning, we carried out the following tasks: (1) Distortion correction for LiDAR mapping process; (2) Introduction of strong constraints for obstacle avoidance in local planners; (3) Construction of LiDAR-IMU Odometry (LIO). These efforts led to a successful advancement in the simulation race of the North China division and then a national second prize in the final competition.
 
 <table><tr>
 <td style="width:47.5%"> <a href="https://youtu.be/GT1CXNN92-o" title="Racecar"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688913924/video_to_markdown/images/youtube--GT1CXNN92-o-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Smart car race demo (simulation competition part)"></a></td>
