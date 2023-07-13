@@ -21,7 +21,7 @@ redirect_from:
 
 I’m a second-year master's student in Automation at *[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)*. As a member of *State Key Laboratory of Autonomous Intelligent Unmanned Systems*, I'm advised by Prof. [Chengpu Yu](https://ac.bit.edu.cn/szdw/dsmd/sssds/mssbyznxt/69e8a71ad78346fb87e6765e0f2549ab.htm). I received my B.Eng. degree in Measurement & Control Technology from *[China University of Mining & Technology (CUMT), Beijing](https://english.cumtb.edu.cn/)* in 2021.
 
-My research interests are in the autonomy of intelligent mobile systems. More specifically, I focus on autonomous exploration systems and its supporting technologies, such as SLAM, motion planning, and multi-robot collaboration.
+The goal of my research is to enhance the autonomy of robots. Currently, I'm focusing on autonomous exploration systems and its supporting technologies, such as SLAM, motion planning, and multi-robot collaboration.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -58,7 +58,11 @@ My research interests are in the autonomy of intelligent mobile systems. More sp
 
 - *2021.10 - now*, **Indoor Navigation and Detection Based on Air-Ground Platform Collaboration. (Core Member)** 
   
-  [National Key R&D Program] Responsible for the research of multi-UAV cooperative exploration algorithm based on solid-state Lidar for disaster relief and rescue.
+  [National Key R&D Program] 
+
+  In disaster relief scenarios, there is a safety risk for rescuers when they enter damaged buildings, such as those affected by an earthquake. To tackle this issue, we have developed a LiDAR exploration and mapping system. The proposed system conduct indoor information surveys and return autonomously after completion, helping to inspect the internal environment and find trapped people.
+  
+  The whole process requires no remote control or pre-specified routes, as the decision is made entirely by the on-board processing unit.
 
 <table><tr>
 <td style="width:50%"> <a href="https://youtu.be/BFo1Ke8co4k" title="Exploration with Solid-state Lidar (3 UAVs)"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688958193/video_to_markdown/images/youtube--BFo1Ke8co4k-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Exploration(3 UAVs)"></a></td>
@@ -68,23 +72,23 @@ My research interests are in the autonomy of intelligent mobile systems. More sp
 
 - *2020.05 - 2020.09*, **ROS Smart Car Racing. (Team Leader)** 
 
-  [China's 15th National Collegiate Smart Car Race] 
+  [China's 15th National Collegiate Smart Car Race] To achieve higher speed in the racing, beside device adjustment and tuning, we carried out the following tasks: (1) Distortion correction for LiDAR mapping process; (2) Introduction of strong constraints for obstacle avoidance in local planners; (3) Construction of LiDAR-IMU Odometry (LIO). These efforts led to a successful advancement in the simulation race of the North China division and then a national second prize in the final competition.
 
 <table><tr>
-<td style="width:48%"> <a href="https://youtu.be/GT1CXNN92-o" title="Racecar"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688913924/video_to_markdown/images/youtube--GT1CXNN92-o-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Smart car race demo (simulation competition part)"></a></td>
+<td style="width:47.5%"> <a href="https://youtu.be/GT1CXNN92-o" title="Racecar"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688913924/video_to_markdown/images/youtube--GT1CXNN92-o-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Smart car race demo (simulation competition part)"></a></td>
 <td><img src="images/comp_scene.png" alt="competition scene"></td>
 </tr></table>
 
 # 📖 Educations
-- *Sept. 2021 - Jul. 2024 (Present)*, Master's student of Control Engineering, Beijing Institute of Technology. 
-- *Sept. 2017 - Jul. 2021*, Bachelor of Measurement & Control Technology, China University of Mining & Technology, Beijing.
+- *Sept. 2021 - Jul. 2024 (Present)*, Master's student of Control Engineering, Beijing Institute of Technology. **(Grade: 85.26/100.0)**
+- *Sept. 2017 - Jul. 2021*, Bachelor of Measurement & Control Technology, China University of Mining & Technology, Beijing. **(GPA: 3.68/4.0)**
 
 # 💻 Internships
 - *2023.04 - 2023.05*, [PhiGent Robotics](https://www.phigent.ai/), Autonomous Driving R&D Intern.
 
 # 🏅 Honors and Awards
 - *2022.09* First Class Scholarship of Beijing Institute of Technology. 
-- *2021.06* Outstanding Graduates of China University of Mining and Technology, Beijing. (Top 3%)
+- *2021.06* Outstanding Graduates of China University of Mining and Technology, Beijing. (Top 5%)
 - *2021.06* First Prize of Excellent Bachelor Thesis of China University of Mining & Technology, Beijing. (Top 1%)
 - *2020.09* National Second Prize of Collegiate Smart Car Competition.
 
