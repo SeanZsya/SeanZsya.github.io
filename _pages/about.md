@@ -56,7 +56,7 @@ The goal of my research is to enhance the autonomy of robots. Currently, I'm foc
 
 # 🔬 Projects
 
-- *2021.10 - now*, **Indoor Navigation and Detection Based on Air-Ground Platform Collaboration. (Core Member)** 
+- *Oct. 2021 - now*, **Indoor Navigation and Detection Based on Air-Ground Platform Collaboration. (Core Member)** 
   
   [National Key R&D Program] 
 
@@ -71,8 +71,13 @@ The goal of my research is to enhance the autonomy of robots. Currently, I'm foc
 <td> <a href="https://youtu.be/hQJ7u7scb8Y" title="Exploration with Solid-state Lidar (2 UAVs)"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688958424/video_to_markdown/images/youtube--hQJ7u7scb8Y-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Exploration(2 UAVs)"></a></td>
 </tr></table>
 
+- *Jul. 2022 - now*, **Collaborative Perception and Environment Modeling of Unmanned Swarms. (Core Member)**
+  
+  [Industry-Academia Collaborative Innovation Fund]
 
-- *2020.05 - 2020.09*, **ROS Smart Car Racing. (Team Leader)** 
+  Built an unmanned swarm that support any number of intelligent agents for efficient collaborative exploration: (1) built small drones from scratch; (2) established UDP communication to exchange custom compact messages; (3) designed a scalable dynamic task allocation strategy.
+
+- *May 2020 - Sept. 2020*, **ROS Smart Car Racing. (Team Leader)** 
 
   [China's 15th National Collegiate Smart Car Race] 
   
