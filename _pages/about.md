@@ -60,7 +60,9 @@ The goal of my research is to enhance the autonomy of robots. Currently, I'm foc
   
   [National Key R&D Program] 
 
-  In disaster relief scenarios, there is a safety risk for rescuers when they enter damaged buildings, such as those affected by an earthquake. To tackle this issue, we have developed a LiDAR exploration and mapping system. The proposed system conduct indoor information surveys and return autonomously after completion, helping to inspect the internal environment and find trapped people.
+  In disaster relief scenarios, there is a safety risk for rescuers when they enter damaged buildings, such as those affected by an earthquake. 
+  
+  To tackle this issue, we have developed a LiDAR exploration and mapping system. The proposed system conduct indoor information surveys and return autonomously after completion, helping to inspect the internal environment and find trapped people.
   
   The whole process requires no remote control or pre-specified routes, as the decision is made entirely by the on-board processing unit.
 
@@ -72,7 +74,11 @@ The goal of my research is to enhance the autonomy of robots. Currently, I'm foc
 
 - *2020.05 - 2020.09*, **ROS Smart Car Racing. (Team Leader)** 
 
-  [China's 15th National Collegiate Smart Car Race] To achieve higher speed in the racing, besides device adjustment and tuning, we carried out the following tasks: (1) Distortion correction for LiDAR mapping process; (2) Introduction of strong constraints for obstacle avoidance in local planners; (3) Construction of LiDAR-IMU Odometry (LIO). These efforts led to a successful advancement in the simulation race of the North China division and then a national second prize in the final competition.
+  [China's 15th National Collegiate Smart Car Race] 
+  
+  To achieve higher speed in the racing, besides device adjustment and tuning, we carried out the following tasks: (1) Distortion correction for LiDAR mapping process; (2) Introduction of strong constraints for obstacle avoidance in local planners; (3) Construction of LiDAR-IMU Odometry (LIO). 
+  
+  Successfully advanced in the simulation competition of the North China division and subsequently won the national second prize in the final race.
 
 <table><tr>
 <td style="width:47.5%"> <a href="https://youtu.be/GT1CXNN92-o" title="Racecar"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688913924/video_to_markdown/images/youtube--GT1CXNN92-o-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Smart car race demo (simulation competition part)"></a></td>
