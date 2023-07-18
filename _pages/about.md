@@ -19,9 +19,9 @@ redirect_from:
 
 # About Me 
 
-I’m a second-year master's student in Automation at *[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)*. As a member of *State Key Laboratory of Autonomous Intelligent Unmanned Systems*, I'm advised by Prof. [Chengpu Yu](https://ac.bit.edu.cn/szdw/dsmd/sssds/mssbyznxt/69e8a71ad78346fb87e6765e0f2549ab.htm). I received my B.Eng. degree in Measurement & Control Technology from *[China University of Mining & Technology (CUMT), Beijing](https://english.cumtb.edu.cn/)* in 2021.
+I’m a second-year master's student in Automation at *[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)*, focusing on autonomous exploration systems and its supporting technologies, such as SLAM, motion planning, and multi-robot collaboration. As a member of *State Key Laboratory of Autonomous Intelligent Unmanned Systems*, I'm advised by Prof. [Chengpu Yu](https://ac.bit.edu.cn/szdw/dsmd/sssds/mssbyznxt/69e8a71ad78346fb87e6765e0f2549ab.htm). I received my B.Eng. degree in Measurement & Control Technology from *[China University of Mining & Technology (CUMT), Beijing](https://english.cumtb.edu.cn/)* in 2021.
 
-The goal of my research is to enhance the autonomy of robots. Currently, I'm focusing on autonomous exploration systems and its supporting technologies, such as SLAM, motion planning, and multi-robot collaboration.
+Currently, I am seeking possible Ph.D. opportunities in the fields of intelligent robotics and autonomous driving. Robots are not just our assistants but can also companions. I'm excited to continuously enhancing their autonomy and intelligence, thus creating a better life.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -62,7 +62,7 @@ The goal of my research is to enhance the autonomy of robots. Currently, I'm foc
 
   In disaster relief scenarios, there is a safety risk for rescuers when they enter damaged buildings, such as those affected by an earthquake. 
   
-  To tackle this issue, we have developed a LiDAR exploration and mapping system. The proposed system conduct indoor information surveys and return autonomously after completion, helping to inspect the internal environment and find trapped people.
+  To tackle this issue, we have developed a Solid-state LiDAR exploration and mapping system. The proposed system conduct indoor information surveys and return autonomously after completion, helping to inspect the internal environment and find trapped people.
   
   The whole process requires no remote control or pre-specified routes, as the decision is made entirely by the on-board processing unit.
 
