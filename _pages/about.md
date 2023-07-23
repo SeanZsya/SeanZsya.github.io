@@ -19,9 +19,11 @@ redirect_from:
 
 # About Me 
 
-I’m a second-year master's student in Automation at *[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)*, focusing on autonomous exploration systems and its supporting technologies, such as SLAM, motion planning, and multi-robot collaboration. As a member of *State Key Laboratory of Autonomous Intelligent Unmanned Systems*, I'm advised by Prof. [Chengpu Yu](https://ac.bit.edu.cn/szdw/dsmd/sssds/mssbyznxt/69e8a71ad78346fb87e6765e0f2549ab.htm). I received my B.Eng. degree in Measurement & Control Technology from *[China University of Mining & Technology (CUMT), Beijing](https://english.cumtb.edu.cn/)* in 2021.
+I'm a second-year master's student in Automation at *[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)*, focusing on autonomous exploration systems and its supporting technologies, such as SLAM, motion planning, and multi-robot collaboration. As a member of *State Key Laboratory of Autonomous Intelligent Unmanned Systems*, I'm advised by Prof. [Chengpu Yu](https://ac.bit.edu.cn/szdw/dsmd/sssds/mssbyznxt/69e8a71ad78346fb87e6765e0f2549ab.htm). I received my B.Eng. degree in Measurement & Control Technology from *[China University of Mining & Technology (CUMT), Beijing](https://english.cumtb.edu.cn/)* in 2021.
 
 Currently, I am seeking possible Ph.D. opportunities in the fields of intelligent robotics and autonomous driving. Robots are not just our assistants but can also companions. I'm excited to continuously enhancing their autonomy and intelligence, thus creating a better life.
+
+<a href="seanzsya.github.io/CV_Xuyang_ZHAO.pdf" target="_blank">[CV]</a>
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -99,7 +101,7 @@ Currently, I am seeking possible Ph.D. opportunities in the fields of intelligen
 
 # 🏅 Honors and Awards
 - *2022.09* First Class Scholarship of Beijing Institute of Technology. 
-- *2021.06* Outstanding Graduates of China University of Mining and Technology, Beijing. (Top 5%)
+- *2021.06* Outstanding Graduates of China University of Mining & Technology, Beijing. (Top 5%)
 - *2021.06* First Prize of Excellent Bachelor Thesis of China University of Mining & Technology, Beijing. (Top 1%)
 - *2020.09* National Second Prize of Collegiate Smart Car Competition.
 
