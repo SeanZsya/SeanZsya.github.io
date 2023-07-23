@@ -106,6 +106,7 @@ Currently, I am seeking possible Ph.D. opportunities in the fields of intelligen
 - *2020.09* National Second Prize of Collegiate Smart Car Competition.
 
 # 📚 Skills
+> Extensive experience in Mobile Robot/Unmanned Aerial Vehicle(UAV) development, both software and hardware.
 - **Robotics Dev.:** ROS, PX4, Gazebo, PCL, Eigen, Ceres, etc. 
 - **Programming:** C/C++, Python, LaTeX
 - **Dev. Tools:** Git, Linux & Shell, Docker, etc.
