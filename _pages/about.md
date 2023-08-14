@@ -79,7 +79,7 @@ Currently, I am seeking possible Ph.D. opportunities in the fields of intelligen
 
   Built an unmanned swarm that support any number of intelligent agents for efficient collaborative exploration: (1) built small drones from scratch; (2) established UDP communication to exchange custom compact messages; (3) designed a scalable dynamic task allocation strategy.
 
-- *May 2020 - Sept. 2020*, **ROS Smart Car Racing. (Team Leader)** 
+- *May 2020 - Sept. 2020*, **Intelligent Car Racing Competition. (Team Leader)** 
 
   [China's 15th National Collegiate Smart Car Race] 
   
