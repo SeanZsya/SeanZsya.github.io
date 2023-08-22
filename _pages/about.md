@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me 
 
-<a href="https://seanzsya.github.io/cv_xuyang_zhao.pdf" target="_blank"><b>[ CV ]</b></a>
+<a href="https://seanzsya.github.io/CV_Xuyang_ZHAO.pdf" target="_blank"><b>[ CV ]</b></a>
 
 I'm a second-year master's student in Automation at *[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)*, focusing on autonomous exploration systems and its supporting technologies, such as SLAM, motion planning, and multi-robot collaboration. As a member of *State Key Laboratory of Autonomous Intelligent Unmanned Systems*, I'm advised by Prof. [Chengpu Yu](https://ac.bit.edu.cn/szdw/dsmd/sssds/mssbyznxt/69e8a71ad78346fb87e6765e0f2549ab.htm). I received my B.Eng. degree in Measurement & Control Technology from *[China University of Mining & Technology (CUMT), Beijing](https://english.cumtb.edu.cn/)* in 2021.
 
@@ -48,6 +48,19 @@ Currently, I am seeking possible Ph.D. opportunities in the fields of intelligen
   **Xuyang Zhao**, Chengpu Yu, Erpei Xu and Yixuan Liu
 
   - Proposed an exploration system that uses global dynamic regional division and localized metric evaluation to achieve efficient autonomous mapping with low computational requirements. The proposed method can run at high frequencies (>100Hz) on low-power edge platforms like Jetson Nano, while offering up to 57.57% efficiency improvement compared to former methods.
+
+  </div>
+</div>
+
+<div class='paper-box'>
+
+  **[TDLE: 2D Lidar Exploration with Hierarchical Planning Using Regional Division](https://arxiv.org/abs/2307.02852)**
+
+  IEEE International Conference on Unmanned Systems (ICUS), Guangzhou, China, 2023 
+
+  Yixuan Liu, **Xuyang Zhao**, Zhengmao Liu, Chengpu Yu
+
+  - Eliminate dynamic feature points while retaining static points of movable objects to improve robustness. The localization accuracy is improved by up to 21.69% compared with ORB-SLAM in the KITTI dataset.
 
   </div>
 </div>
@@ -95,7 +108,7 @@ Currently, I am seeking possible Ph.D. opportunities in the fields of intelligen
 
 # 📖 Educations
 - *Sept. 2021 - Jul. 2024 (Present)*, Master's student of Control Engineering, Beijing Institute of Technology. **(Grade: 85.26/100.0)**
-- *Sept. 2017 - Jul. 2021*, Bachelor of Measurement & Control Technology, China University of Mining & Technology, Beijing. **(Grade: 88.52/100.0)**
+- *Sept. 2017 - Jul. 2021*, Bachelor of Measurement & Control Technology, China University of Mining & Technology, Beijing. **(Grade: 88.52/100)**
 
 # 💻 Internships
 - *2023.04 - 2023.05*, [PhiGent Robotics](https://www.phigent.ai/), Autonomous Driving R&D Intern.
