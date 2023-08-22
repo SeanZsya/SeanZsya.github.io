@@ -53,16 +53,15 @@ Currently, I am seeking possible Ph.D. opportunities in the fields of intelligen
 </div>
 
 <div class='paper-box'>
-
   <div class='paper-box-text' markdown="1">
 
-    **[TDLE: 2D Lidar Exploration with Hierarchical Planning Using Regional Division](https://arxiv.org/abs/2307.02852)**
+  DOTF-SLAM: Real-time Dynamic SLAM Using Object Tracking and Key-point Filtering
 
-    IEEE International Conference on Unmanned Systems (ICUS), Guangzhou, China, 2023 
+  IEEE International Conference on Unmanned Systems (ICUS), Guangzhou, China, 2023 
 
-    Yixuan Liu, **Xuyang Zhao**, Zhengmao Liu, Chengpu Yu
+  Yixuan Liu, **Xuyang Zhao**, Zhengmao Liu, Chengpu Yu
 
-    - Eliminate dynamic feature points while retaining static points of movable objects to improve robustness. The localization accuracy is improved by up to 21.69% compared with ORB-SLAM in the KITTI dataset.
+  - Eliminate dynamic feature points while retaining static points of movable objects to improve robustness. The localization accuracy is improved by up to 21.69% compared with ORB-SLAM in the KITTI dataset.
   </div>
 </div>
 
