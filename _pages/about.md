@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me 
 
-<a href="https://seanzsya.github.io/CV_Xuyang_ZHAO.pdf" target="_blank"><b>[ CV ]</b></a>
+<a href="https://seanzsya.github.io/cv_xuyang_zhao.pdf" target="_blank"><b>[ CV ]</b></a>
 
 I'm a second-year master's student in Automation at *[Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/)*, focusing on autonomous exploration systems and its supporting technologies, such as SLAM, motion planning, and multi-robot collaboration. As a member of *State Key Laboratory of Autonomous Intelligent Unmanned Systems*, I'm advised by Prof. [Chengpu Yu](https://ac.bit.edu.cn/szdw/dsmd/sssds/mssbyznxt/69e8a71ad78346fb87e6765e0f2549ab.htm). I received my B.Eng. degree in Measurement & Control Technology from *[China University of Mining & Technology (CUMT), Beijing](https://english.cumtb.edu.cn/)* in 2021.
 
@@ -54,6 +54,7 @@ Currently, I am seeking possible Ph.D. opportunities in the fields of intelligen
 
 ## Patents
 - Chengpu Yu, **Xuyang Zhao**, Dajian Zhou, "An Indoor Mapping Method And Device With Autonomous Exploration", Chinese Patent 20211114092.1, 2021. 
+- Chengpu Yu, **Xuyang Zhao**, Yixuan Liu, "A Lidar Exploration and Mapping Method Based on Regional Segmentation", Chinese Patent 202321893269.1, 2023.
 - Chengpu Yu, Dajian Zhou, **Xuyang Zhao**, "An 3D Inversion Positioning Method Based on Ultra-wideband (UWB).", Chinese Patent 202110893866.X, 2021.
 
 # 🔬 Projects
@@ -94,7 +95,7 @@ Currently, I am seeking possible Ph.D. opportunities in the fields of intelligen
 
 # 📖 Educations
 - *Sept. 2021 - Jul. 2024 (Present)*, Master's student of Control Engineering, Beijing Institute of Technology. **(Grade: 85.26/100.0)**
-- *Sept. 2017 - Jul. 2021*, Bachelor of Measurement & Control Technology, China University of Mining & Technology, Beijing. **(GPA: 3.68/4.0)**
+- *Sept. 2017 - Jul. 2021*, Bachelor of Measurement & Control Technology, China University of Mining & Technology, Beijing. **(Grade: 88.52/100.0)**
 
 # 💻 Internships
 - *2023.04 - 2023.05*, [PhiGent Robotics](https://www.phigent.ai/), Autonomous Driving R&D Intern.
