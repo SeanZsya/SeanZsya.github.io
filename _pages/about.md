@@ -54,16 +54,18 @@ Currently, I am seeking possible Ph.D. opportunities in the fields of intelligen
 
 <div class='paper-box'>
 
-  **[TDLE: 2D Lidar Exploration with Hierarchical Planning Using Regional Division](https://arxiv.org/abs/2307.02852)**
+  <div class='paper-box-text' markdown="1">
 
-  IEEE International Conference on Unmanned Systems (ICUS), Guangzhou, China, 2023 
+    **[TDLE: 2D Lidar Exploration with Hierarchical Planning Using Regional Division](https://arxiv.org/abs/2307.02852)**
 
-  Yixuan Liu, **Xuyang Zhao**, Zhengmao Liu, Chengpu Yu
+    IEEE International Conference on Unmanned Systems (ICUS), Guangzhou, China, 2023 
 
-  - Eliminate dynamic feature points while retaining static points of movable objects to improve robustness. The localization accuracy is improved by up to 21.69% compared with ORB-SLAM in the KITTI dataset.
+    Yixuan Liu, **Xuyang Zhao**, Zhengmao Liu, Chengpu Yu
 
+    - Eliminate dynamic feature points while retaining static points of movable objects to improve robustness. The localization accuracy is improved by up to 21.69% compared with ORB-SLAM in the KITTI dataset.
   </div>
 </div>
+
 
 ## Patents
 - Chengpu Yu, **Xuyang Zhao**, Dajian Zhou, "An Indoor Mapping Method And Device With Autonomous Exploration", Chinese Patent 20211114092.1, 2021. 
