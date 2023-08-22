@@ -54,8 +54,14 @@ Currently, I am seeking possible Ph.D. opportunities in the fields of intelligen
 
 <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICUS 2023</div>
+      <img src="images/DOTF_SLAM.jpg" width="100%"/></a>
+    </div>
+  </div>
 
-  DOTF-SLAM: Real-time Dynamic SLAM Using Object Tracking and Key-point Filtering
+  **DOTF-SLAM: Real-time Dynamic SLAM Using Object Tracking and Key-point Filtering**
 
   IEEE International Conference on Unmanned Systems (ICUS), Guangzhou, China, 2023 
 
