@@ -76,7 +76,7 @@ Robots are not just our assistants but can also be companions. I'm excited to co
 
 ## Patents
 - Chengpu Yu, **Xuyang Zhao**, Dajian Zhou, "An Indoor Mapping Method And Device With Autonomous Exploration", Chinese Patent 20211114092.1, 2021. 
-- Chengpu Yu, **Xuyang Zhao**, Yixuan Liu, "A Lidar Exploration and Mapping Method Based on Regional Segmentation", Chinese Patent 202321893269.1, 2023.
+- Chengpu Yu, **Xuyang Zhao**, Yixuan Liu, "A Lidar Exploration and Mapping Method Based on Regional Segmentation", Chinese Patent 202311191164.2, 2023.
 - Chengpu Yu, Dajian Zhou, **Xuyang Zhao**, "An 3D Inversion Positioning Method Based on Ultra-wideband (UWB).", Chinese Patent 202110893866.X, 2021.
 
 # 🔬 Projects
@@ -120,7 +120,7 @@ Robots are not just our assistants but can also be companions. I'm excited to co
 - *Sept. 2017 - Jul. 2021*, Bachelor of Measurement & Control Technology, China University of Mining & Technology, Beijing. **(Grade: 88.52/100)**
 
 # 💻 Internships
-- *2023.04 - 2023.05*, [PhiGent Robotics](https://www.phigent.ai/), Autonomous Driving R&D Intern.
+- *2023.05 - 2023.06*, [PhiGent Robotics](https://www.phigent.ai/), Autonomous Driving R&D Intern.
 
 # 🏅 Honors and Awards
 - *2022.09* First Class Scholarship of Beijing Institute of Technology. 
